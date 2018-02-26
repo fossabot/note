@@ -57,6 +57,7 @@
   - http://demo.cssmoban.com/cssthemes2/tpmo_405_matrix/index.html
 
     ![1258](https://user-images.githubusercontent.com/32303870/34066872-c4dda73e-e251-11e7-8ed5-305daa6c8695.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmaskleo%2Fnote.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmaskleo%2Fnote?ref=badge_shield)
 
   - http://demo.cssmoban.com/cssthemes3/btst_40_hexapack/index.html
     ![image](https://user-images.githubusercontent.com/32303870/34344222-5aef913c-ea1e-11e7-9897-52a390b6f600.png)
@@ -73,3 +74,7 @@
      ![image](https://user-images.githubusercontent.com/32303870/34397392-c4f82c86-ebb0-11e7-828e-e068ef2d5c40.png)
 
   
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmaskleo%2Fnote.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmaskleo%2Fnote?ref=badge_large)
